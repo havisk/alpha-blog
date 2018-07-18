@@ -5,6 +5,9 @@ source 'https://rubygems.org'
 gem 'rails', '5.2'
 # Use sqlite3 as the database for Active Record
 
+ruby '2.4.4'
+# See https://devcenter.heroku.com/articles/ruby-versions for more information.
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
